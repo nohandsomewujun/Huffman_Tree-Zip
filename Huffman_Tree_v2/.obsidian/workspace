@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "4fa1a03503013626",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83c20e981d1c164",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "report_pb20050999.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87d7627994a005e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "870f335b0deaf6a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c8d5743f8fe4e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d77307b26457260",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CreateZipFile",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "510a347882cfcf9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d8dcf5f8e55b957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7cf37425ad46997",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "report_pb20050999.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f83c20e981d1c164",
+  "lastOpenFiles": [
+    "report_pb20050999.md",
+    "images/1.png",
+    "1.png",
+    "Huffman编码实现压缩软件_实验报告.pdf",
+    "1back.png",
+    "2.png",
+    "backfile.m4a",
+    "backfile.png",
+    "graph.m4a"
+  ]
+}
